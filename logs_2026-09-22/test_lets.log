@@ -1,0 +1,9 @@
+2026-09-22 09:38:58,073 - INFO - test_lets started
+2026-09-22 09:39:04,764 - INFO - Alert text: Hello , share this practice page and share your knowledge
+2026-09-22 09:39:04,897 - INFO - Hidden attribute is - display: none;
+2026-09-22 09:39:05,084 - INFO - Mouse hover check passed
+2026-09-22 09:39:05,112 - INFO - Footer text is - © 2026 letskodeit
+2026-09-22 09:39:05,857 - INFO - Clicked sign in button
+2026-09-22 09:39:06,699 - INFO - Validation message: Incorrect login details
+2026-09-22 09:39:07,671 - INFO - Opened Google page
+2026-09-22 09:39:07,677 - INFO - test_lets finished
